@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#4e54c8" />
+  <rect x="100" y="100" width="600" height="80" rx="10" fill="#ffffff" fill-opacity="0.2" />
+  <rect x="100" y="210" width="600" height="80" rx="10" fill="#ffffff" fill-opacity="0.2" />
+  <rect x="100" y="320" width="600" height="80" rx="10" fill="#ffffff" fill-opacity="0.2" />
+  <text x="400" y="250" font-family="Arial" font-size="24" fill="#ffffff" text-anchor="middle">E-Commerce Website</text>
+</svg> 
